@@ -4,11 +4,18 @@
         <description><![CDATA[Enterlab ApS]]></description>
         <link>https://thegrid.ai/enterlab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 08:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 08:53:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/enterlab/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We're using Clojure, Datomic, ClojureScript, Java, JavaScript, C & C++,, Swift, Objective-C, Docker, Amazon Web Service, SAP HANA Cloud, Microsoft Azure and all other relevant technologies, to make sure we always deliver exactly what is needed at the best possible timing. Ask us if you want to learn why and how we do it!</p>]]></description>
+            <link>https://thegrid.ai/enterlab/a23ed2bc-0d64-4677-808d-9080dca43d2a/index.html</link>
+            <guid isPermaLink="false">a23ed2bc-0d64-4677-808d-9080dca43d2a</guid>
+            <pubDate>Mon, 01 Feb 2016 08:53:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>In case you're wondering how to get in touch with us, coordinates are:Twitter: @enterlabFacebook: http://facebook.com/enterlabOld school: info at enterlab dot dkEven older school: We have a phone number! Ping us to get it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de01248dc517e09cf35b84d2785ae0d5e950b39a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Contact</h1><p>In case you're wondering how to get in touch with us, coordinates are:Twitter: @enterlabFacebook: http://facebook.com/enterlabOld school: info at enterlab dot dkEven older school: We have a phone number! Ping us to get it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8b76eaf060b2395386e15e852ede1250bfda3e3.jpg"></article>]]></description>
             <link>https://thegrid.ai/enterlab/contact/index.html</link>
             <guid isPermaLink="false">919d3751-75f5-455d-be04-1f9e92cdefe9</guid>
             <pubDate>Mon, 01 Feb 2016 08:50:51 GMT</pubDate>
