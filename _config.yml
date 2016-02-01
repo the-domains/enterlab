@@ -2,6 +2,7 @@ name: enterlab
 favicon: null
 layout_spectrum: 0.25
 typography_spectrum: 0.32782
+title: Enterlab ApS
 cta:
   domain: null
   bucket: null
