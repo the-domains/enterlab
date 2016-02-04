@@ -4,8 +4,15 @@
         <description><![CDATA[Enterlab - your Enterprise IT Laboratory]]></description>
         <link>http://grid.enterlab.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 15:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 15:22:15 GMT</lastBuildDate>
         <atom:link href="http://grid.enterlab.dk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://sojo.net/sites/default/files/blog/146928360.jpg">]]></description>
+            <link>http://grid.enterlab.dk/a3e94f40-3bce-4d18-bf46-af451ed09a68/index.html</link>
+            <guid isPermaLink="false">a3e94f40-3bce-4d18-bf46-af451ed09a68</guid>
+            <pubDate>Thu, 04 Feb 2016 15:21:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.space.com/images/i/000/052/876/original/supermassive-black-hole-winds.jpg?interpolation=lanczos-none&downsize=*:1400">]]></description>
