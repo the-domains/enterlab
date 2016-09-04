@@ -1,20 +1,4 @@
-name: Enterlab
-favicon: null
-layout_spectrum: 0.41156
 typography_spectrum: 0.46883
-title: Enterlab - Enterprise IT Laboratory
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f6f6f6'
@@ -26,4 +10,21 @@ color:
   lightness: 0.8781285609584302
   saturation: 0.1862778104841709
   rhythmicContrast: 0.8476225363556296
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.41156
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Enterlab
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Enterlab - Enterprise IT Laboratory
+description: Enterprise IT Laboratory
 purpose: []
