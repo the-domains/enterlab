@@ -4,15 +4,8 @@
         <description><![CDATA[Enterlab]]></description>
         <link>http://grid.enterlab.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 09:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 09:54:24 GMT</lastBuildDate>
         <atom:link href="http://grid.enterlab.dk/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.space.com/images/i/000/053/057/original/moon-earth-Change-5T1-1920.jpg?interpolation=lanczos-none&fit=around|1920:1200&crop=1920:1200;*,*">]]></description>
-            <link>http://grid.enterlab.dk/508ee195-f9f7-4f4b-979d-274ad30ddae5/index.html</link>
-            <guid isPermaLink="false">508ee195-f9f7-4f4b-979d-274ad30ddae5</guid>
-            <pubDate>Mon, 15 Feb 2016 10:16:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We're using Clojure, Datomic, ClojureScript, Java, JavaScript, C & C++,, Swift, Objective-C, Docker, Amazon Web Service, SAP HANA Cloud, Microsoft Azure and all other relevant technologies, to make sure we always deliver exactly what is needed at the best possible timing. Ask us if you want to learn why and how we do it!</p>]]></description>
