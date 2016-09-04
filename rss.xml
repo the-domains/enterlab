@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Enterlab - your Enterprise IT Laboratory]]></title>
-        <description><![CDATA[Enterlab - your Enterprise IT Laboratory]]></description>
+        <title><![CDATA[Enterlab]]></title>
+        <description><![CDATA[Enterlab]]></description>
         <link>http://grid.enterlab.dk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 10:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 09:53:57 GMT</lastBuildDate>
         <atom:link href="http://grid.enterlab.dk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.space.com/images/i/000/053/057/original/moon-earth-Change-5T1-1920.jpg?interpolation=lanczos-none&fit=around|1920:1200&crop=1920:1200;*,*">]]></description>
+            <link>http://grid.enterlab.dk/508ee195-f9f7-4f4b-979d-274ad30ddae5/index.html</link>
+            <guid isPermaLink="false">508ee195-f9f7-4f4b-979d-274ad30ddae5</guid>
+            <pubDate>Mon, 15 Feb 2016 10:16:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.space.com/images/i/000/053/016/original/europa-remastered-1920.jpg?interpolation=lanczos-none&fit=around|1920:1200&crop=1920:1200;*,*">]]></description>
             <link>http://grid.enterlab.dk/c67848dd-fe67-4bac-9b86-0357df9e3b39/index.html</link>
             <guid isPermaLink="false">c67848dd-fe67-4bac-9b86-0357df9e3b39</guid>
             <pubDate>Mon, 15 Feb 2016 10:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://sojo.net/sites/default/files/blog/146928360.jpg">]]></description>
-            <link>http://grid.enterlab.dk/a3e94f40-3bce-4d18-bf46-af451ed09a68/index.html</link>
-            <guid isPermaLink="false">a3e94f40-3bce-4d18-bf46-af451ed09a68</guid>
-            <pubDate>Thu, 04 Feb 2016 15:21:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -36,14 +36,14 @@
         </item>
         <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>In case you're wondering how to get in touch with us, coordinates are:Twitter: @enterlabFacebook: http://facebook.com/enterlabOld school: info at enterlab dot dkEven older school: We have a phone number! Ping us to get it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c8b76eaf060b2395386e15e852ede1250bfda3e3.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6493e27-1beb-41d8-a538-bfa8858bc8b6.jpg" alt="" title="">]]></description>
             <link>http://grid.enterlab.dk/contact/index.html</link>
             <guid isPermaLink="false">919d3751-75f5-455d-be04-1f9e92cdefe9</guid>
             <pubDate>Mon, 01 Feb 2016 08:50:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blog]]></title>
-            <description><![CDATA[<article><h1>Blog</h1><p>We just moved MeeWee's application and data to Frankfurt, to ensure maximum data security for their customers!</p></article>]]></description>
+            <description><![CDATA[<p>We just moved MeeWee's application and data to Frankfurt, to ensure maximum data security for their customers!</p>]]></description>
             <link>http://grid.enterlab.dk/25e47d06-1f72-4369-9a13-d3c112f2405c/index.html</link>
             <guid isPermaLink="false">25e47d06-1f72-4369-9a13-d3c112f2405c</guid>
             <pubDate>Mon, 01 Feb 2016 13:31:22 GMT</pubDate>
